@@ -1,0 +1,34 @@
+{
+ "gastos": [
+  {
+   "id": "33b97a",
+   "roommate": "Sylvia Hill",
+   "descripcion": "Articulos de limpieza",
+   "monto": 6000
+  },
+  {
+   "id": "917670",
+   "roommate": "Violet Turner",
+   "descripcion": "Articulos de limpieza",
+   "monto": 15000
+  },
+  {
+   "id": "97b5a7",
+   "roommate": "Raul Gallardo",
+   "descripcion": "Articulos de limpieza",
+   "monto": 15000
+  },
+  {
+   "id": "8c47bd",
+   "roommate": "Mrs Henri Diekmann",
+   "descripcion": "Articulos de limpieza",
+   "monto": 15000
+  },
+  {
+   "id": "699c5a",
+   "roommate": "Mrs Henri Diekmann",
+   "descripcion": "Articulos de limpieza",
+   "monto": 15000
+  }
+ ]
+}

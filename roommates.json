@@ -1,0 +1,81 @@
+{
+ "roommates": [
+  {
+   "id": "375892",
+   "nombre": "Violet Turner",
+   "correo": "violet.turner@example.com",
+   "debe": "-13500",
+   "recibe": "6000"
+  },
+  {
+   "id": "e77102",
+   "nombre": "Brent Beck",
+   "correo": "brent.beck@example.com",
+   "debe": "-7500",
+   "recibe": "7500"
+  },
+  {
+   "id": "c36319",
+   "nombre": "Abd Lopes",
+   "correo": "abd.lopes@example.com",
+   "debe": "0",
+   "recibe": "6000"
+  },
+  {
+   "id": "290925",
+   "nombre": "Raul Gallardo",
+   "correo": "raul.gallardo@example.com",
+   "debe": "-3000",
+   "recibe": "6000"
+  },
+  {
+   "id": "0f9288",
+   "nombre": "Elaine Burke",
+   "correo": "elaine.burke@example.com",
+   "debe": "-1500",
+   "recibe": "6000"
+  },
+  {
+   "id": "b7f094",
+   "nombre": "Rachel Lucas",
+   "correo": "rachel.lucas@example.com",
+   "debe": "-10500",
+   "recibe": "6000"
+  },
+  {
+   "id": "fa5e50",
+   "nombre": "Mr Jacob De Kreij",
+   "correo": "jacob.dekreij@example.com",
+   "debe": "-1500",
+   "recibe": "1500"
+  },
+  {
+   "id": "508f0e",
+   "nombre": "Miss Laurie Pelletier",
+   "correo": "laurie.pelletier@example.com",
+   "debe": "-3000",
+   "recibe": "15000"
+  },
+  {
+   "id": "e319bb",
+   "nombre": "Miss Amber Burton",
+   "correo": "amber.burton@example.com",
+   "debe": "-4500",
+   "recibe": "13500"
+  },
+  {
+   "id": "a68c70",
+   "nombre": "Mrs Henri Diekmann",
+   "correo": "henri.diekmann@example.com",
+   "debe": "-10500",
+   "recibe": "1500"
+  },
+  {
+   "id": "d1af8f",
+   "nombre": "Miss Julie Olson",
+   "correo": "julie.olson@example.com",
+   "debe": "-1500",
+   "recibe": "13500"
+  }
+ ]
+}
